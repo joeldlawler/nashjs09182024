@@ -31,6 +31,21 @@ function fizzBuzz(n) {
 // console.log(fizzBuzz(23)); // (23) ['1', '2', 'Fizz', '4', 'Buzz', 'Fizz', '7', '8', 'Fizz', 'Buzz', '11', 'Fizz', '13', '14', 'FizzBuzz', '16', '17', 'Fizz', '19', 'Buzz', 'Fizz', '22', '23']
 
 /*
+Explanation
+
+We define a function fizzBuzz that takes an integer n as input.
+We initialize an empty array result to store our output.
+We use a for loop to iterate from 1 to n.
+For each number, we check:
+If it's divisible by both 3 and 5, we add "FizzBuzz" to the result.
+If it's only divisible by 3, we add "Fizz".
+If it's only divisible by 5, we add "Buzz".
+If it's not divisible by 3 or 5, we add the number itself (as a string).
+We return the result array.
+Finally, we call the function with n = 15 and log the result to the console.
+*/
+
+/*
 Algorithms Used
 
 Iteration Algorithm:
