@@ -5,6 +5,8 @@ html {
   height: 100%;
   overflow: hidden;
   font-family: "Architects Daughter", cursive;
+  color: #fff;
+  background-color: #000;
 }
 
 .presentation {
@@ -19,9 +21,8 @@ html {
   position: absolute;
   top: 0;
   left: 0;
-  padding: 40px;
+  padding: 20px;
   box-sizing: border-box;
-  background-color: #000;
   display: none;
 }
 
@@ -31,7 +32,6 @@ html {
 
 .heading {
   font-size: 40px;
-  color: #fff;
   margin-bottom: 10px;
   text-align: left;
   padding: 10px;
@@ -43,29 +43,15 @@ html {
 
 h1 {
   font-size: 30px;
-  color: #fff;
   margin-bottom: 15px;
 }
 
 h2 {
   font-size: 20px;
-  color: #fff;
   margin-bottom: 15px;
 }
 
 p {
-  font-size: 16px;
-  color: #fff;
-  line-height: 1.5;
-}
-
-.counter {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
   font-size: 18px;
-  color: #777;
-  background-color: rgba(255, 255, 255, 0.7);
-  padding: 5px 10px;
-  border-radius: 5px;
+  line-height: 1.5;
 }
