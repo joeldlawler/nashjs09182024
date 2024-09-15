@@ -9,3 +9,5 @@ Tim Conner & Joel Lawler
 [Big O Calc](https://www.bigocalc.com/)
 
 [TimeComplexity.ai](https://www.timecomplexity.ai/)
+
+[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
